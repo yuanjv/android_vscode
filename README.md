@@ -9,7 +9,7 @@ termux: https://github.com/termux/termux-app
 termux-x11: https://github.com/termux/termux-x11
 
 
-### setup commands
+# setup commands
 ```
 apt update && apt install -y xdotool x11-repo termux-x11-nightly proot-distro
 ```
